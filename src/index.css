@@ -1,0 +1,13 @@
+tr:nth-child(odd) {
+    background-color: #d8d7d7; /* set background color for odd rows */
+  }
+  
+  tr:nth-child(even) {
+    background-color: #9c9c9c; /* set background color for even rows */
+  }
+  
+
+  h1{
+    /* border: 1px solid #ffffff; */
+    border-radius: 2rem 0 2rem;
+  }
